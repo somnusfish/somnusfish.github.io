@@ -1,20 +1,12 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
+Lu Ma:
+  name: Lu Ma
+  web: 
+  email: somnusfish@gmail.com
+  bio: "You have to kill those excuses, or they will kill you."
+  avatar: me.jpg
+  twitter: 
   google:
-    plus: BillyRick
+    plus: somnusfish
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: CorneliusFiddlebone
