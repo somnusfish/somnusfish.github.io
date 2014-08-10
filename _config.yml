@@ -2,8 +2,8 @@
 
 title:            Dreaming
 locale:           China
-#url:              http://somnusfish.github.io
-url:              http://localhost:4000
+url:              http://somnusfish.github.io
+#url:              http://localhost:4000
 
 
 # Jekyll configuration
