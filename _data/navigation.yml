@@ -1,6 +1,27 @@
 # Site navigation links
 
 
-- title: Tips
-  url: /posts/
+- title: Biograph
+  url: /Biograph/
+
+- title: Research
+  url: /Research/
+
+- title: Project
+  url: /Project/
+
+- title: Awards
+  url: /Awards/
+
+- title: Transcript
+  url: /Transcript/
+
+- title: My CV
+  url: /My CV/
+
+- title: Contact Me
+  url: /Contact Me/
+
+
+
 
