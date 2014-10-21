@@ -24,13 +24,13 @@ owner:
   bing-verify: 
   github: somnusfish
   stackoverflow: http://stackoverflow.com/users/1856642/lu-ma
-  linkedin: Lu Ma
+  linkedin:
   instagram: #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
   foursquare: #username
-  steam: somnusfish
+  steam: 
   dribbble: #username
 
 include: [".htaccess"]
